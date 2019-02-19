@@ -3,6 +3,9 @@ package com.etime.bytebuf;
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.ByteBufAllocator;
 
+/**
+ * @author gzy
+ */
 public class ByteBufTest {
 
     public static void main(String[] args) {
